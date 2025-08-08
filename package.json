@@ -1,0 +1,83 @@
+{
+  "name": "@mirawision/infopedia",
+  "version": "1.0.0",
+  "description": "Canonical reference lists (countries, languages, time zones, currencies, etc.) with ergonomic TypeScript helpers.",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./index.js"
+    },
+    "./countries": {
+      "types": "./countries.d.ts",
+      "default": "./countries.js"
+    },
+    "./dials": {
+      "types": "./dials.d.ts",
+      "default": "./dials.js"
+    },
+    "./languages": {
+      "types": "./languages.d.ts",
+      "default": "./languages.js"
+    },
+    "./locales": {
+      "types": "./locales.d.ts",
+      "default": "./locales.js"
+    },
+    "./timezones": {
+      "types": "./timezones.d.ts",
+      "default": "./timezones.js"
+    },
+    "./currencies": {
+      "types": "./currencies.d.ts",
+      "default": "./currencies.js"
+    },
+    "./geo": {
+      "types": "./geo.d.ts",
+      "default": "./geo.js"
+    },
+    "./datetime": {
+      "types": "./datetime.d.ts",
+      "default": "./datetime.js"
+    }
+  },
+  "scripts": {
+    "prebuild": "node scripts/generate-maps.cjs",
+    "build": "tsc",
+    "clean": "rm -rf *.js *.d.ts src/generated",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "update:countries": "node scripts/update-countries.cjs && node scripts/generate-maps.cjs",
+    "update:currencies": "node scripts/update-currencies.cjs && node scripts/generate-maps.cjs",
+    "update:languages": "node scripts/update-languages.cjs && node scripts/generate-maps.cjs",
+    "update:locales": "node scripts/update-locales.cjs && node scripts/generate-maps.cjs",
+    "update:timezones": "node scripts/update-time-zones.cjs && node scripts/generate-maps.cjs",
+    "update:dials": "node scripts/update-dials.cjs && node scripts/generate-maps.cjs",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "countries",
+    "languages",
+    "locales",
+    "timezones",
+    "currencies",
+    "iso-3166",
+    "iso-639",
+    "iso-4217",
+    "iana"
+  ],
+  "author": "Yelysei Lukin <yelysei277@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MiraWision/infopedia.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MiraWision/infopedia/issues"
+  },
+  "homepage": "https://github.com/MiraWision/infopedia#readme",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "5.5.4"
+  }
+}
+

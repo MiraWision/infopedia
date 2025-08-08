@@ -1,0 +1,1485 @@
+[
+    {
+        "name": {
+            "en": "Afar",
+            "native": "Afaraf"
+        },
+        "iso639_1": "aa",
+        "iso639_2": "aar"
+    },
+    {
+        "name": {
+            "en": "Abkhaz",
+            "native": "аҧсуа бызшәа, аҧсшәа"
+        },
+        "iso639_1": "ab",
+        "iso639_2": "abk"
+    },
+    {
+        "name": {
+            "en": "Avestan",
+            "native": "avesta"
+        },
+        "iso639_1": "ae",
+        "iso639_2": "ave"
+    },
+    {
+        "name": {
+            "en": "Afrikaans",
+            "native": "Afrikaans"
+        },
+        "iso639_1": "af",
+        "iso639_2": "afr"
+    },
+    {
+        "name": {
+            "en": "Akan",
+            "native": "Akan"
+        },
+        "iso639_1": "ak",
+        "iso639_2": "aka"
+    },
+    {
+        "name": {
+            "en": "Amharic",
+            "native": "አማርኛ"
+        },
+        "iso639_1": "am",
+        "iso639_2": "amh"
+    },
+    {
+        "name": {
+            "en": "Aragonese",
+            "native": "aragonés"
+        },
+        "iso639_1": "an",
+        "iso639_2": "arg"
+    },
+    {
+        "name": {
+            "en": "Arabic",
+            "native": "العربية"
+        },
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "direction": "RTL"
+    },
+    {
+        "name": {
+            "en": "Assamese",
+            "native": "অসমীয়া"
+        },
+        "iso639_1": "as",
+        "iso639_2": "asm"
+    },
+    {
+        "name": {
+            "en": "Avaric",
+            "native": "авар мацӀ, магӀарул мацӀ"
+        },
+        "iso639_1": "av",
+        "iso639_2": "ava"
+    },
+    {
+        "name": {
+            "en": "Aymara",
+            "native": "aymar aru"
+        },
+        "iso639_1": "ay",
+        "iso639_2": "aym"
+    },
+    {
+        "name": {
+            "en": "Azerbaijani",
+            "native": "azərbaycan dili"
+        },
+        "iso639_1": "az",
+        "iso639_2": "aze"
+    },
+    {
+        "name": {
+            "en": "Bashkir",
+            "native": "башҡорт теле"
+        },
+        "iso639_1": "ba",
+        "iso639_2": "bak"
+    },
+    {
+        "name": {
+            "en": "Belarusian",
+            "native": "беларуская мова"
+        },
+        "iso639_1": "be",
+        "iso639_2": "bel"
+    },
+    {
+        "name": {
+            "en": "Bulgarian",
+            "native": "български език"
+        },
+        "iso639_1": "bg",
+        "iso639_2": "bul"
+    },
+    {
+        "name": {
+            "en": "Bihari",
+            "native": "भोजपुरी"
+        },
+        "iso639_1": "bh",
+        "iso639_2": "bih"
+    },
+    {
+        "name": {
+            "en": "Bislama",
+            "native": "Bislama"
+        },
+        "iso639_1": "bi",
+        "iso639_2": "bis"
+    },
+    {
+        "name": {
+            "en": "Bambara",
+            "native": "bamanankan"
+        },
+        "iso639_1": "bm",
+        "iso639_2": "bam"
+    },
+    {
+        "name": {
+            "en": "Bengali, Bangla",
+            "native": "বাংলা"
+        },
+        "iso639_1": "bn",
+        "iso639_2": "ben"
+    },
+    {
+        "name": {
+            "en": "Tibetan Standard, Tibetan, Central",
+            "native": "བོད་ཡིག"
+        },
+        "iso639_1": "bo",
+        "iso639_2": "bod"
+    },
+    {
+        "name": {
+            "en": "Breton",
+            "native": "brezhoneg"
+        },
+        "iso639_1": "br",
+        "iso639_2": "bre"
+    },
+    {
+        "name": {
+            "en": "Bosnian",
+            "native": "bosanski jezik"
+        },
+        "iso639_1": "bs",
+        "iso639_2": "bos"
+    },
+    {
+        "name": {
+            "en": "Catalan",
+            "native": "català"
+        },
+        "iso639_1": "ca",
+        "iso639_2": "cat"
+    },
+    {
+        "name": {
+            "en": "Chechen",
+            "native": "нохчийн мотт"
+        },
+        "iso639_1": "ce",
+        "iso639_2": "che"
+    },
+    {
+        "name": {
+            "en": "Chamorro",
+            "native": "Chamoru"
+        },
+        "iso639_1": "ch",
+        "iso639_2": "cha"
+    },
+    {
+        "name": {
+            "en": "Corsican",
+            "native": "corsu, lingua corsa"
+        },
+        "iso639_1": "co",
+        "iso639_2": "cos"
+    },
+    {
+        "name": {
+            "en": "Cree",
+            "native": "ᓀᐦᐃᔭᐍᐏᐣ"
+        },
+        "iso639_1": "cr",
+        "iso639_2": "cre"
+    },
+    {
+        "name": {
+            "en": "Czech",
+            "native": "čeština, český jazyk"
+        },
+        "iso639_1": "cs",
+        "iso639_2": "ces"
+    },
+    {
+        "name": {
+            "en": "Old Church Slavonic, Church Slavonic, Old Bulgarian",
+            "native": "ѩзыкъ словѣньскъ"
+        },
+        "iso639_1": "cu",
+        "iso639_2": "chu"
+    },
+    {
+        "name": {
+            "en": "Chuvash",
+            "native": "чӑваш чӗлхи"
+        },
+        "iso639_1": "cv",
+        "iso639_2": "chv"
+    },
+    {
+        "name": {
+            "en": "Welsh",
+            "native": "Cymraeg"
+        },
+        "iso639_1": "cy",
+        "iso639_2": "cym"
+    },
+    {
+        "name": {
+            "en": "Danish",
+            "native": "dansk"
+        },
+        "iso639_1": "da",
+        "iso639_2": "dan"
+    },
+    {
+        "name": {
+            "en": "German",
+            "native": "Deutsch"
+        },
+        "iso639_1": "de",
+        "iso639_2": "deu"
+    },
+    {
+        "name": {
+            "en": "Divehi, Dhivehi, Maldivian",
+            "native": "ދިވެހި"
+        },
+        "iso639_1": "dv",
+        "iso639_2": "div",
+        "direction": "RTL"
+    },
+    {
+        "name": {
+            "en": "Dzongkha",
+            "native": "རྫོང་ཁ"
+        },
+        "iso639_1": "dz",
+        "iso639_2": "dzo"
+    },
+    {
+        "name": {
+            "en": "Ewe",
+            "native": "Eʋegbe"
+        },
+        "iso639_1": "ee",
+        "iso639_2": "ewe"
+    },
+    {
+        "name": {
+            "en": "Greek",
+            "native": "ελληνικά"
+        },
+        "iso639_1": "el",
+        "iso639_2": "ell"
+    },
+    {
+        "name": {
+            "en": "English",
+            "native": "English"
+        },
+        "iso639_1": "en",
+        "iso639_2": "eng"
+    },
+    {
+        "name": {
+            "en": "Esperanto",
+            "native": "Esperanto"
+        },
+        "iso639_1": "eo",
+        "iso639_2": "epo"
+    },
+    {
+        "name": {
+            "en": "Spanish",
+            "native": "Español"
+        },
+        "iso639_1": "es",
+        "iso639_2": "spa"
+    },
+    {
+        "name": {
+            "en": "Estonian",
+            "native": "eesti, eesti keel"
+        },
+        "iso639_1": "et",
+        "iso639_2": "est"
+    },
+    {
+        "name": {
+            "en": "Basque",
+            "native": "euskara, euskera"
+        },
+        "iso639_1": "eu",
+        "iso639_2": "eus"
+    },
+    {
+        "name": {
+            "en": "Persian",
+            "native": "فارسی"
+        },
+        "iso639_1": "fa",
+        "iso639_2": "fas",
+        "direction": "RTL"
+    },
+    {
+        "name": {
+            "en": "Fula, Fulah, Pulaar, Pular",
+            "native": "Fulfulde, Pulaar, Pular"
+        },
+        "iso639_1": "ff",
+        "iso639_2": "ful"
+    },
+    {
+        "name": {
+            "en": "Finnish",
+            "native": "suomi, suomen kieli"
+        },
+        "iso639_1": "fi",
+        "iso639_2": "fin"
+    },
+    {
+        "name": {
+            "en": "Fijian",
+            "native": "vosa Vakaviti"
+        },
+        "iso639_1": "fj",
+        "iso639_2": "fij"
+    },
+    {
+        "name": {
+            "en": "Faroese",
+            "native": "føroyskt"
+        },
+        "iso639_1": "fo",
+        "iso639_2": "fao"
+    },
+    {
+        "name": {
+            "en": "French",
+            "native": "français, langue française"
+        },
+        "iso639_1": "fr",
+        "iso639_2": "fra"
+    },
+    {
+        "name": {
+            "en": "Western Frisian",
+            "native": "Frysk"
+        },
+        "iso639_1": "fy",
+        "iso639_2": "fry"
+    },
+    {
+        "name": {
+            "en": "Irish",
+            "native": "Gaeilge"
+        },
+        "iso639_1": "ga",
+        "iso639_2": "gle"
+    },
+    {
+        "name": {
+            "en": "Scottish Gaelic, Gaelic",
+            "native": "Gàidhlig"
+        },
+        "iso639_1": "gd",
+        "iso639_2": "gla"
+    },
+    {
+        "name": {
+            "en": "Galician",
+            "native": "galego"
+        },
+        "iso639_1": "gl",
+        "iso639_2": "glg"
+    },
+    {
+        "name": {
+            "en": "Guaraní",
+            "native": "Avañe'ẽ"
+        },
+        "iso639_1": "gn",
+        "iso639_2": "grn"
+    },
+    {
+        "name": {
+            "en": "Gujarati",
+            "native": "ગુજરાતી"
+        },
+        "iso639_1": "gu",
+        "iso639_2": "guj"
+    },
+    {
+        "name": {
+            "en": "Manx",
+            "native": "Gaelg, Gailck"
+        },
+        "iso639_1": "gv",
+        "iso639_2": "glv"
+    },
+    {
+        "name": {
+            "en": "Hausa",
+            "native": "(Hausa) هَوُسَ"
+        },
+        "iso639_1": "ha",
+        "iso639_2": "hau"
+    },
+    {
+        "name": {
+            "en": "Hebrew",
+            "native": "עברית"
+        },
+        "iso639_1": "he",
+        "iso639_2": "heb",
+        "direction": "RTL"
+    },
+    {
+        "name": {
+            "en": "Hindi",
+            "native": "हिन्दी, हिंदी"
+        },
+        "iso639_1": "hi",
+        "iso639_2": "hin"
+    },
+    {
+        "name": {
+            "en": "Hiri Motu",
+            "native": "Hiri Motu"
+        },
+        "iso639_1": "ho",
+        "iso639_2": "hmo"
+    },
+    {
+        "name": {
+            "en": "Croatian",
+            "native": "hrvatski jezik"
+        },
+        "iso639_1": "hr",
+        "iso639_2": "hrv"
+    },
+    {
+        "name": {
+            "en": "Haitian, Haitian Creole",
+            "native": "Kreyòl ayisyen"
+        },
+        "iso639_1": "ht",
+        "iso639_2": "hat"
+    },
+    {
+        "name": {
+            "en": "Hungarian",
+            "native": "magyar"
+        },
+        "iso639_1": "hu",
+        "iso639_2": "hun"
+    },
+    {
+        "name": {
+            "en": "Armenian",
+            "native": "Հայերեն"
+        },
+        "iso639_1": "hy",
+        "iso639_2": "hye"
+    },
+    {
+        "name": {
+            "en": "Herero",
+            "native": "Otjiherero"
+        },
+        "iso639_1": "hz",
+        "iso639_2": "her"
+    },
+    {
+        "name": {
+            "en": "Interlingua",
+            "native": "Interlingua"
+        },
+        "iso639_1": "ia",
+        "iso639_2": "ina"
+    },
+    {
+        "name": {
+            "en": "Indonesian",
+            "native": "Bahasa Indonesia"
+        },
+        "iso639_1": "id",
+        "iso639_2": "ind"
+    },
+    {
+        "name": {
+            "en": "Interlingue",
+            "native": "Originally called Occidental; then Interlingue after WWII"
+        },
+        "iso639_1": "ie",
+        "iso639_2": "ile"
+    },
+    {
+        "name": {
+            "en": "Igbo",
+            "native": "Asụsụ Igbo"
+        },
+        "iso639_1": "ig",
+        "iso639_2": "ibo"
+    },
+    {
+        "name": {
+            "en": "Nuosu",
+            "native": "ꆈꌠ꒿ Nuosuhxop"
+        },
+        "iso639_1": "ii",
+        "iso639_2": "iii"
+    },
+    {
+        "name": {
+            "en": "Inupiaq",
+            "native": "Iñupiaq, Iñupiatun"
+        },
+        "iso639_1": "ik",
+        "iso639_2": "ipk"
+    },
+    {
+        "name": {
+            "en": "Ido",
+            "native": "Ido"
+        },
+        "iso639_1": "io",
+        "iso639_2": "ido"
+    },
+    {
+        "name": {
+            "en": "Icelandic",
+            "native": "Íslenska"
+        },
+        "iso639_1": "is",
+        "iso639_2": "isl"
+    },
+    {
+        "name": {
+            "en": "Italian",
+            "native": "Italiano"
+        },
+        "iso639_1": "it",
+        "iso639_2": "ita"
+    },
+    {
+        "name": {
+            "en": "Inuktitut",
+            "native": "ᐃᓄᒃᑎᑐᑦ"
+        },
+        "iso639_1": "iu",
+        "iso639_2": "iku"
+    },
+    {
+        "name": {
+            "en": "Japanese",
+            "native": "日本語 (にほんご)"
+        },
+        "iso639_1": "ja",
+        "iso639_2": "jpn"
+    },
+    {
+        "name": {
+            "en": "Javanese",
+            "native": "ꦧꦱꦗꦮ, Basa Jawa"
+        },
+        "iso639_1": "jv",
+        "iso639_2": "jav"
+    },
+    {
+        "name": {
+            "en": "Georgian",
+            "native": "ქართული"
+        },
+        "iso639_1": "ka",
+        "iso639_2": "kat"
+    },
+    {
+        "name": {
+            "en": "Kongo",
+            "native": "Kikongo"
+        },
+        "iso639_1": "kg",
+        "iso639_2": "kon"
+    },
+    {
+        "name": {
+            "en": "Kikuyu, Gikuyu",
+            "native": "Gĩkũyũ"
+        },
+        "iso639_1": "ki",
+        "iso639_2": "kik"
+    },
+    {
+        "name": {
+            "en": "Kwanyama, Kuanyama",
+            "native": "Kuanyama"
+        },
+        "iso639_1": "kj",
+        "iso639_2": "kua"
+    },
+    {
+        "name": {
+            "en": "Kazakh",
+            "native": "қазақ тілі"
+        },
+        "iso639_1": "kk",
+        "iso639_2": "kaz"
+    },
+    {
+        "name": {
+            "en": "Kalaallisut, Greenlandic",
+            "native": "kalaallisut, kalaallit oqaasii"
+        },
+        "iso639_1": "kl",
+        "iso639_2": "kal"
+    },
+    {
+        "name": {
+            "en": "Khmer",
+            "native": "ខ្មែរ, ខេមរភាសា, ភាសាខ្មែរ"
+        },
+        "iso639_1": "km",
+        "iso639_2": "khm"
+    },
+    {
+        "name": {
+            "en": "Kannada",
+            "native": "ಕನ್ನಡ"
+        },
+        "iso639_1": "kn",
+        "iso639_2": "kan"
+    },
+    {
+        "name": {
+            "en": "Korean",
+            "native": "한국어"
+        },
+        "iso639_1": "ko",
+        "iso639_2": "kor"
+    },
+    {
+        "name": {
+            "en": "Kanuri",
+            "native": "Kanuri"
+        },
+        "iso639_1": "kr",
+        "iso639_2": "kau"
+    },
+    {
+        "name": {
+            "en": "Kashmiri",
+            "native": "कश्मीरी, كشميري‎"
+        },
+        "iso639_1": "ks",
+        "iso639_2": "kas",
+        "direction": "RTL"
+    },
+    {
+        "name": {
+            "en": "Kurdish",
+            "native": "Kurdî, كوردی‎"
+        },
+        "iso639_1": "ku",
+        "iso639_2": "kur",
+        "direction": "RTL"
+    },
+    {
+        "name": {
+            "en": "Komi",
+            "native": "коми кыв"
+        },
+        "iso639_1": "kv",
+        "iso639_2": "kom"
+    },
+    {
+        "name": {
+            "en": "Cornish",
+            "native": "Kernewek"
+        },
+        "iso639_1": "kw",
+        "iso639_2": "cor"
+    },
+    {
+        "name": {
+            "en": "Kyrgyz",
+            "native": "Кыргызча, Кыргыз тили"
+        },
+        "iso639_1": "ky",
+        "iso639_2": "kir"
+    },
+    {
+        "name": {
+            "en": "Latin",
+            "native": "latine, lingua latina"
+        },
+        "iso639_1": "la",
+        "iso639_2": "lat"
+    },
+    {
+        "name": {
+            "en": "Luxembourgish, Letzeburgesch",
+            "native": "Lëtzebuergesch"
+        },
+        "iso639_1": "lb",
+        "iso639_2": "ltz"
+    },
+    {
+        "name": {
+            "en": "Ganda",
+            "native": "Luganda"
+        },
+        "iso639_1": "lg",
+        "iso639_2": "lug"
+    },
+    {
+        "name": {
+            "en": "Limburgish, Limburgan, Limburger",
+            "native": "Limburgs"
+        },
+        "iso639_1": "li",
+        "iso639_2": "lim"
+    },
+    {
+        "name": {
+            "en": "Lingala",
+            "native": "Lingála"
+        },
+        "iso639_1": "ln",
+        "iso639_2": "lin"
+    },
+    {
+        "name": {
+            "en": "Lao",
+            "native": "ພາສາລາວ"
+        },
+        "iso639_1": "lo",
+        "iso639_2": "lao"
+    },
+    {
+        "name": {
+            "en": "Lithuanian",
+            "native": "lietuvių kalba"
+        },
+        "iso639_1": "lt",
+        "iso639_2": "lit"
+    },
+    {
+        "name": {
+            "en": "Luba-Katanga",
+            "native": "Tshiluba"
+        },
+        "iso639_1": "lu",
+        "iso639_2": "lub"
+    },
+    {
+        "name": {
+            "en": "Latvian",
+            "native": "latviešu valoda"
+        },
+        "iso639_1": "lv",
+        "iso639_2": "lav"
+    },
+    {
+        "name": {
+            "en": "Malagasy",
+            "native": "fiteny malagasy"
+        },
+        "iso639_1": "mg",
+        "iso639_2": "mlg"
+    },
+    {
+        "name": {
+            "en": "Marshallese",
+            "native": "Kajin M̧ajeļ"
+        },
+        "iso639_1": "mh",
+        "iso639_2": "mah"
+    },
+    {
+        "name": {
+            "en": "Māori",
+            "native": "te reo Māori"
+        },
+        "iso639_1": "mi",
+        "iso639_2": "mri"
+    },
+    {
+        "name": {
+            "en": "Macedonian",
+            "native": "македонски јазик"
+        },
+        "iso639_1": "mk",
+        "iso639_2": "mkd"
+    },
+    {
+        "name": {
+            "en": "Malayalam",
+            "native": "മലയാളം"
+        },
+        "iso639_1": "ml",
+        "iso639_2": "mal"
+    },
+    {
+        "name": {
+            "en": "Mongolian",
+            "native": "Монгол хэл"
+        },
+        "iso639_1": "mn",
+        "iso639_2": "mon"
+    },
+    {
+        "name": {
+            "en": "Marathi",
+            "native": "मराठी"
+        },
+        "iso639_1": "mr",
+        "iso639_2": "mar"
+    },
+    {
+        "name": {
+            "en": "Malay",
+            "native": "bahasa Melayu, بهاس ملايو‎"
+        },
+        "iso639_1": "ms",
+        "iso639_2": "msa"
+    },
+    {
+        "name": {
+            "en": "Maltese",
+            "native": "Malti"
+        },
+        "iso639_1": "mt",
+        "iso639_2": "mlt"
+    },
+    {
+        "name": {
+            "en": "Burmese",
+            "native": "ဗမာစာ"
+        },
+        "iso639_1": "my",
+        "iso639_2": "mya"
+    },
+    {
+        "name": {
+            "en": "Nauruan",
+            "native": "Dorerin Naoero"
+        },
+        "iso639_1": "na",
+        "iso639_2": "nau"
+    },
+    {
+        "name": {
+            "en": "Norwegian Bokmål",
+            "native": "Norsk bokmål"
+        },
+        "iso639_1": "nb",
+        "iso639_2": "nob"
+    },
+    {
+        "name": {
+            "en": "Northern Ndebele",
+            "native": "isiNdebele"
+        },
+        "iso639_1": "nd",
+        "iso639_2": "nde"
+    },
+    {
+        "name": {
+            "en": "Nepali",
+            "native": "नेपाली"
+        },
+        "iso639_1": "ne",
+        "iso639_2": "nep"
+    },
+    {
+        "name": {
+            "en": "Ndonga",
+            "native": "Owambo"
+        },
+        "iso639_1": "ng",
+        "iso639_2": "ndo"
+    },
+    {
+        "name": {
+            "en": "Dutch",
+            "native": "Nederlands, Vlaams"
+        },
+        "iso639_1": "nl",
+        "iso639_2": "nld"
+    },
+    {
+        "name": {
+            "en": "Norwegian Nynorsk",
+            "native": "Norsk nynorsk"
+        },
+        "iso639_1": "nn",
+        "iso639_2": "nno"
+    },
+    {
+        "name": {
+            "en": "Norwegian",
+            "native": "Norsk"
+        },
+        "iso639_1": "no",
+        "iso639_2": "nor"
+    },
+    {
+        "name": {
+            "en": "Southern Ndebele",
+            "native": "isiNdebele"
+        },
+        "iso639_1": "nr",
+        "iso639_2": "nbl"
+    },
+    {
+        "name": {
+            "en": "Navajo, Navaho",
+            "native": "Diné bizaad"
+        },
+        "iso639_1": "nv",
+        "iso639_2": "nav"
+    },
+    {
+        "name": {
+            "en": "Chichewa, Chewa, Nyanja",
+            "native": "chiCheŵa, chinyanja"
+        },
+        "iso639_1": "ny",
+        "iso639_2": "nya"
+    },
+    {
+        "name": {
+            "en": "Occitan",
+            "native": "occitan, lenga d'òc"
+        },
+        "iso639_1": "oc",
+        "iso639_2": "oci"
+    },
+    {
+        "name": {
+            "en": "Ojibwe, Ojibwa",
+            "native": "ᐊᓂᔑᓈᐯᒧᐎᓐ"
+        },
+        "iso639_1": "oj",
+        "iso639_2": "oji"
+    },
+    {
+        "name": {
+            "en": "Oromo",
+            "native": "Afaan Oromoo"
+        },
+        "iso639_1": "om",
+        "iso639_2": "orm"
+    },
+    {
+        "name": {
+            "en": "Oriya",
+            "native": "ଓଡ଼ିଆ"
+        },
+        "iso639_1": "or",
+        "iso639_2": "ori"
+    },
+    {
+        "name": {
+            "en": "Ossetian, Ossetic",
+            "native": "ирон æвзаг"
+        },
+        "iso639_1": "os",
+        "iso639_2": "oss"
+    },
+    {
+        "name": {
+            "en": "Punjabi",
+            "native": "ਪੰਜਾਬੀ"
+        },
+        "iso639_1": "pa",
+        "iso639_2": "pan"
+    },
+    {
+        "name": {
+            "en": "Pāli",
+            "native": "पाऴि"
+        },
+        "iso639_1": "pi",
+        "iso639_2": "pli"
+    },
+    {
+        "name": {
+            "en": "Polish",
+            "native": "język polski, polszczyzna"
+        },
+        "iso639_1": "pl",
+        "iso639_2": "pol"
+    },
+    {
+        "name": {
+            "en": "Pashto, Pushto",
+            "native": "پښتو"
+        },
+        "iso639_1": "ps",
+        "iso639_2": "pus",
+        "direction": "RTL"
+    },
+    {
+        "name": {
+            "en": "Portuguese",
+            "native": "Português"
+        },
+        "iso639_1": "pt",
+        "iso639_2": "por"
+    },
+    {
+        "name": {
+            "en": "Quechua",
+            "native": "Runa Simi, Kichwa"
+        },
+        "iso639_1": "qu",
+        "iso639_2": "que"
+    },
+    {
+        "name": {
+            "en": "Romansh",
+            "native": "rumantsch grischun"
+        },
+        "iso639_1": "rm",
+        "iso639_2": "roh"
+    },
+    {
+        "name": {
+            "en": "Kirundi",
+            "native": "Ikirundi"
+        },
+        "iso639_1": "rn",
+        "iso639_2": "run"
+    },
+    {
+        "name": {
+            "en": "Romanian",
+            "native": "Română"
+        },
+        "iso639_1": "ro",
+        "iso639_2": "ron"
+    },
+    {
+        "name": {
+            "en": "Russian",
+            "native": "Русский"
+        },
+        "iso639_1": "ru",
+        "iso639_2": "rus"
+    },
+    {
+        "name": {
+            "en": "Kinyarwanda",
+            "native": "Ikinyarwanda"
+        },
+        "iso639_1": "rw",
+        "iso639_2": "kin"
+    },
+    {
+        "name": {
+            "en": "Sanskrit",
+            "native": "संस्कृतम्"
+        },
+        "iso639_1": "sa",
+        "iso639_2": "san"
+    },
+    {
+        "name": {
+            "en": "Sardinian",
+            "native": "sardu"
+        },
+        "iso639_1": "sc",
+        "iso639_2": "srd"
+    },
+    {
+        "name": {
+            "en": "Sindhi",
+            "native": "सिन्धी, سنڌي، سندھی‎"
+        },
+        "iso639_1": "sd",
+        "iso639_2": "snd",
+        "direction": "RTL"
+    },
+    {
+        "name": {
+            "en": "Northern Sami",
+            "native": "Davvisámegiella"
+        },
+        "iso639_1": "se",
+        "iso639_2": "sme"
+    },
+    {
+        "name": {
+            "en": "Sango",
+            "native": "yângâ tî sängö"
+        },
+        "iso639_1": "sg",
+        "iso639_2": "sag"
+    },
+    {
+        "name": {
+            "en": "Sinhalese, Sinhala",
+            "native": "සිංහල"
+        },
+        "iso639_1": "si",
+        "iso639_2": "sin"
+    },
+    {
+        "name": {
+            "en": "Slovak",
+            "native": "slovenčina, slovenský jazyk"
+        },
+        "iso639_1": "sk",
+        "iso639_2": "slk"
+    },
+    {
+        "name": {
+            "en": "Slovene",
+            "native": "slovenski jezik, slovenščina"
+        },
+        "iso639_1": "sl",
+        "iso639_2": "slv"
+    },
+    {
+        "name": {
+            "en": "Samoan",
+            "native": "gagana fa'a Samoa"
+        },
+        "iso639_1": "sm",
+        "iso639_2": "smo"
+    },
+    {
+        "name": {
+            "en": "Shona",
+            "native": "chiShona"
+        },
+        "iso639_1": "sn",
+        "iso639_2": "sna"
+    },
+    {
+        "name": {
+            "en": "Somali",
+            "native": "Soomaaliga, af Soomaali"
+        },
+        "iso639_1": "so",
+        "iso639_2": "som"
+    },
+    {
+        "name": {
+            "en": "Albanian",
+            "native": "Shqip"
+        },
+        "iso639_1": "sq",
+        "iso639_2": "sqi"
+    },
+    {
+        "name": {
+            "en": "Serbian",
+            "native": "српски језик"
+        },
+        "iso639_1": "sr",
+        "iso639_2": "srp"
+    },
+    {
+        "name": {
+            "en": "Swati",
+            "native": "SiSwati"
+        },
+        "iso639_1": "ss",
+        "iso639_2": "ssw"
+    },
+    {
+        "name": {
+            "en": "Southern Sotho",
+            "native": "Sesotho"
+        },
+        "iso639_1": "st",
+        "iso639_2": "sot"
+    },
+    {
+        "name": {
+            "en": "Sundanese",
+            "native": "Basa Sunda"
+        },
+        "iso639_1": "su",
+        "iso639_2": "sun"
+    },
+    {
+        "name": {
+            "en": "Swedish",
+            "native": "svenska"
+        },
+        "iso639_1": "sv",
+        "iso639_2": "swe"
+    },
+    {
+        "name": {
+            "en": "Swahili",
+            "native": "Kiswahili"
+        },
+        "iso639_1": "sw",
+        "iso639_2": "swa"
+    },
+    {
+        "name": {
+            "en": "Tamil",
+            "native": "தமிழ்"
+        },
+        "iso639_1": "ta",
+        "iso639_2": "tam"
+    },
+    {
+        "name": {
+            "en": "Telugu",
+            "native": "తెలుగు"
+        },
+        "iso639_1": "te",
+        "iso639_2": "tel"
+    },
+    {
+        "name": {
+            "en": "Tajik",
+            "native": "тоҷикӣ, toçikī, تاجیکی‎"
+        },
+        "iso639_1": "tg",
+        "iso639_2": "tgk"
+    },
+    {
+        "name": {
+            "en": "Thai",
+            "native": "ไทย"
+        },
+        "iso639_1": "th",
+        "iso639_2": "tha"
+    },
+    {
+        "name": {
+            "en": "Tigrinya",
+            "native": "ትግርኛ"
+        },
+        "iso639_1": "ti",
+        "iso639_2": "tir"
+    },
+    {
+        "name": {
+            "en": "Turkmen",
+            "native": "Türkmen, Түркмен"
+        },
+        "iso639_1": "tk",
+        "iso639_2": "tuk"
+    },
+    {
+        "name": {
+            "en": "Tagalog",
+            "native": "Wikang Tagalog"
+        },
+        "iso639_1": "tl",
+        "iso639_2": "tgl"
+    },
+    {
+        "name": {
+            "en": "Tswana",
+            "native": "Setswana"
+        },
+        "iso639_1": "tn",
+        "iso639_2": "tsn"
+    },
+    {
+        "name": {
+            "en": "Tonga",
+            "native": "faka Tonga"
+        },
+        "iso639_1": "to",
+        "iso639_2": "ton"
+    },
+    {
+        "name": {
+            "en": "Turkish",
+            "native": "Türkçe"
+        },
+        "iso639_1": "tr",
+        "iso639_2": "tur"
+    },
+    {
+        "name": {
+            "en": "Tsonga",
+            "native": "Xitsonga"
+        },
+        "iso639_1": "ts",
+        "iso639_2": "tso"
+    },
+    {
+        "name": {
+            "en": "Tatar",
+            "native": "татар теле, tatar tele"
+        },
+        "iso639_1": "tt",
+        "iso639_2": "tat"
+    },
+    {
+        "name": {
+            "en": "Twi",
+            "native": "Twi"
+        },
+        "iso639_1": "tw",
+        "iso639_2": "twi"
+    },
+    {
+        "name": {
+            "en": "Tahitian",
+            "native": "Reo Tahiti"
+        },
+        "iso639_1": "ty",
+        "iso639_2": "tah"
+    },
+    {
+        "name": {
+            "en": "Uyghur",
+            "native": "ئۇيغۇرچە‎, Uyghurche"
+        },
+        "iso639_1": "ug",
+        "iso639_2": "uig",
+        "direction": "RTL"
+    },
+    {
+        "name": {
+            "en": "Ukrainian",
+            "native": "Українська"
+        },
+        "iso639_1": "uk",
+        "iso639_2": "ukr"
+    },
+    {
+        "name": {
+            "en": "Urdu",
+            "native": "اردو"
+        },
+        "iso639_1": "ur",
+        "iso639_2": "urd",
+        "direction": "RTL"
+    },
+    {
+        "name": {
+            "en": "Uzbek",
+            "native": "Oʻzbek, Ўзбек, أۇزبېك‎"
+        },
+        "iso639_1": "uz",
+        "iso639_2": "uzb"
+    },
+    {
+        "name": {
+            "en": "Venda",
+            "native": "Tshivenḓa"
+        },
+        "iso639_1": "ve",
+        "iso639_2": "ven"
+    },
+    {
+        "name": {
+            "en": "Vietnamese",
+            "native": "Tiếng Việt"
+        },
+        "iso639_1": "vi",
+        "iso639_2": "vie"
+    },
+    {
+        "name": {
+            "en": "Volapük",
+            "native": "Volapük"
+        },
+        "iso639_1": "vo",
+        "iso639_2": "vol"
+    },
+    {
+        "name": {
+            "en": "Walloon",
+            "native": "walon"
+        },
+        "iso639_1": "wa",
+        "iso639_2": "wln"
+    },
+    {
+        "name": {
+            "en": "Wolof",
+            "native": "Wollof"
+        },
+        "iso639_1": "wo",
+        "iso639_2": "wol"
+    },
+    {
+        "name": {
+            "en": "Xhosa",
+            "native": "isiXhosa"
+        },
+        "iso639_1": "xh",
+        "iso639_2": "xho"
+    },
+    {
+        "name": {
+            "en": "Yiddish",
+            "native": "ייִדיש"
+        },
+        "iso639_1": "yi",
+        "iso639_2": "yid",
+        "direction": "RTL"
+    },
+    {
+        "name": {
+            "en": "Yoruba",
+            "native": "Yorùbá"
+        },
+        "iso639_1": "yo",
+        "iso639_2": "yor"
+    },
+    {
+        "name": {
+            "en": "Zhuang, Chuang",
+            "native": "Saɯ cueŋƅ, Saw cuengh"
+        },
+        "iso639_1": "za",
+        "iso639_2": "zha"
+    },
+    {
+        "name": {
+            "en": "Chinese",
+            "native": "中文 (Zhōngwén), 汉语, 漢語"
+        },
+        "iso639_1": "zh",
+        "iso639_2": "zho"
+    },
+    {
+        "name": {
+            "en": "Zulu",
+            "native": "isiZulu"
+        },
+        "iso639_1": "zu",
+        "iso639_2": "zul"
+    }
+]

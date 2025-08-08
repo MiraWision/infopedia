@@ -1,0 +1,1 @@
+export{b as getLocale,c as getLocalesByLanguage,a as locales}from'./chunk-VM2Q5XB3.js';export{g as localeByTag,h as localesByLanguage}from'./chunk-HJRY4LTR.js';

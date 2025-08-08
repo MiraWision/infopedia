@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "outDir": ".",
+    "rootDir": "src",
+    "module": "commonjs",
+    "target": "ES2017",
+    "strict": true,
+    "declaration": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "dist", "tests"]
+}

@@ -1,0 +1,1 @@
+export{a as countryDials,c as getCountriesByDialCode,b as getDialByISO2}from'./chunk-3QZJQIRC.js';export{d as countriesByDial,c as dialByISO2}from'./chunk-HJRY4LTR.js';

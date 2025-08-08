@@ -1,0 +1,12 @@
+import { Country, CountryDial, Language, Locale, TimeZone, Currency, USState } from '../types';
+export declare const countryByISO2: Record<string, Country>;
+export declare const countryByISO3: Record<string, Country>;
+export declare const dialByISO2: Record<string, CountryDial>;
+export declare const countriesByDial: Record<string, Country[]>;
+export declare const languageBy639_1: Record<string, Language>;
+export declare const languageBy639_2: Record<string, Language>;
+export declare const localeByTag: Record<string, Locale>;
+export declare const localesByLanguage: Record<string, Locale[]>;
+export declare const timeZoneByName: Record<string, TimeZone>;
+export declare const currencyByCode: Record<string, Currency>;
+export declare const usStateByCode: Record<string, USState>;

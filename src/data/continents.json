@@ -1,0 +1,9 @@
+[
+  { "code": "AF", "name": { "en": "Africa" } },
+  { "code": "AN", "name": { "en": "Antarctica" } },
+  { "code": "AS", "name": { "en": "Asia" } },
+  { "code": "EU", "name": { "en": "Europe" } },
+  { "code": "NA", "name": { "en": "North America" } },
+  { "code": "OC", "name": { "en": "Oceania" } },
+  { "code": "SA", "name": { "en": "South America" } }
+]
