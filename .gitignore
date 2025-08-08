@@ -7,6 +7,12 @@ yarn-error.log*
 # Build outputs
 index.js
 index.d.ts
+currencies.js
+currencies.d.ts
+geo.js
+geo.d.ts
+datetime.js
+datetime.d.ts
 countries.js
 countries.d.ts
 dials.js
@@ -17,12 +23,8 @@ locales.js
 locales.d.ts
 timezones.js
 timezones.d.ts
-currencies.js
-currencies.d.ts
-geo.js
-geo.d.ts
-datetime.js
-datetime.d.ts
+types.js
+types.d.ts
 
 # IDE
 .vscode/
