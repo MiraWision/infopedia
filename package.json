@@ -53,7 +53,8 @@
     "update:locales": "node scripts/update-locales.cjs && node scripts/generate-maps.cjs",
     "update:timezones": "node scripts/update-time-zones.cjs && node scripts/generate-maps.cjs",
     "update:dials": "node scripts/update-dials.cjs && node scripts/generate-maps.cjs",
-    "prepare": "npm run build"
+    "prepublish": "npm run build",
+    "publish": "npm publish --access public"
   },
   "keywords": [
     "countries",
