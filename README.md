@@ -1,76 +1,68 @@
-## @mirawision/infopedia
+# @mirawision/infopedia
 
-Infopedia is a tiny, zero‑dependency TypeScript library that provides canonical reference lists and ergonomic helpers for:
+Ready‑to‑use lists and helpers for everyday application data: countries, languages, locales, time zones, currencies, and more — with zero dependencies.
 
-- Countries (ISO‑3166)
-- Country phone codes (E.164)
+## Contents
+
+- Countries and flags
+- Country phone codes
 - Continents
-- Languages (ISO‑639‑1/2)
-- Locales (BCP 47 tags by official languages per country)
-- Time zones (IANA)
-- Currencies (ISO‑4217)
-- Months / Weekdays (en)
-- US states & codes
+- Languages
+- Locales
+- Time zones
+- Currencies
+- Months and weekdays (English)
+- US states and codes
 
-### Features
-
-- **Zero dependencies**: pure data + helpers
-- **Fast lookups**: prebuilt O(1) maps generated at build time
-- **Typed**: full TypeScript types for all lists and helpers
-- **Granular imports**: subpath entrypoints to keep bundles small
-- **Standards aligned**: ISO/IANA/CLDR sourced data
-
-### Installation
+## Installation
 
 ```bash
 npm install @mirawision/infopedia
 ```
 
-### Quick start
+## Quick Start
 
-Aggregate import:
 ```ts
-const { countries, getCountryByISO2 } = require('@mirawision/infopedia');
-console.log(getCountryByISO2('PL'));
+// CommonJS
+const { getCountryByISO2, getCurrency } = require('@mirawision/infopedia');
+
+console.log(getCountryByISO2('PL')?.name.en); // "Poland"
+console.log(getCurrency('USD')?.symbol);      // "$"
 ```
 
-Focused subpaths:
+## Focused Imports
+
 ```ts
-const { countries, getCountryByISO2 } = require('@mirawision/infopedia/countries');
-const { languages, getLanguageBy639_1 } = require('@mirawision/infopedia/languages');
-const { locales, getLocalesByLanguage } = require('@mirawision/infopedia/locales');
-const { timeZones, getTimeZone } = require('@mirawision/infopedia/timezones');
-const { currencies, getCurrency } = require('@mirawision/infopedia/currencies');
+// Countries
+const { countries, findCountriesByName } = require('@mirawision/infopedia/countries');
+
+// Locales
+const { getLocalesByLanguage } = require('@mirawision/infopedia/locales');
+
+// Time zones
+const { getTimeZone } = require('@mirawision/infopedia/timezones');
 ```
 
-### API Overview
+## Common Operations
 
-Raw lists (frozen arrays):
-- `countries`, `countryDials`, `continents`, `languages`, `locales`, `timeZones`, `currencies`, `months`, `weekdays`, `usStates`
+- Find a country by code: `getCountryByISO2('US')`
+- Search countries by name: `findCountriesByName('king')`
+- Get countries by dial code: `getCountriesByDialCode('+44')`
+- Get a language by code: `getLanguageBy639_1('en')`
+- List locales for a language: `getLocalesByLanguage('es')`
+- Look up a time zone: `getTimeZone('Europe/Warsaw')`
+- Look up a currency: `getCurrency('EUR')`
+- Find a US state: `getUSState('CA')`
 
-Helpers (O(1) unless noted):
-- Countries: `getCountryByISO2`, `getCountryByISO3`, `findCountriesByName` (search)
-- Dials: `getDialByISO2`, `getCountriesByDialCode`
-- Languages: `getLanguageBy639_1`, `getLanguageBy639_2`
-- Locales: `getLocale`, `getLocalesByLanguage`
-- Time zones: `getTimeZone`
-- Currencies: `getCurrency`
-- US states: `getUSState`
+## Notes
 
-### Data Sources
+- Data is read‑only (arrays are frozen)
+- No runtime dependencies
 
-- Countries & dials: `mledoze/countries`
-- Languages: `haliaeetus/iso-639`
-- Locales: CLDR `supplementalData.xml` territoryInfo
-- Time zones: IANA `zone1970.tab`, current offsets via Intl
-- Currencies: `datasets/currency-codes` + public symbol map
+## Contributing
 
-### Notes
+Contributions are always welcome! Feel free to open issues or submit pull requests.
 
-- All arrays are frozen to discourage mutation.
-- Time zones expose static metadata only (no runtime DST transitions).
-- Months/weekdays are English only in v1.
+## License
 
-### License
-
-MIT
+This project is licensed under the MIT License.
