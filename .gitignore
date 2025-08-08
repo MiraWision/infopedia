@@ -7,11 +7,22 @@ yarn-error.log*
 # Build outputs
 index.js
 index.d.ts
-core.js
-core.d.ts
-advanced.js
-advanced.d.ts
-*.map
+countries.js
+countries.d.ts
+dials.js
+dials.d.ts
+languages.js
+languages.d.ts
+locales.js
+locales.d.ts
+timezones.js
+timezones.d.ts
+currencies.js
+currencies.d.ts
+geo.js
+geo.d.ts
+datetime.js
+datetime.d.ts
 
 # IDE
 .vscode/

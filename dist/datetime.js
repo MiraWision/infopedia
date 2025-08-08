@@ -1,1 +1,0 @@
-export{a as months,b as weekdays}from'./chunk-VTBSVNPR.js';
